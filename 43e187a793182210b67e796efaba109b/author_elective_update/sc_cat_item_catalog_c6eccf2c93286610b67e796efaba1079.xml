@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="WishItem = Test record producer">0f0ccbe893286610b67e796efaba1035</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2025-03-24 21:33:35</sys_created_on>
+        <sys_id>c6eccf2c93286610b67e796efaba1079</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.WishItem = Test record producer</sys_name>
+        <sys_package display_value="Wish List" source="x_971439_wish_list">43e187a793182210b67e796efaba109b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">43e187a793182210b67e796efaba109b</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_c6eccf2c93286610b67e796efaba1079</sys_update_name>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2025-03-24 21:33:35</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">43e187a793182210b67e796efaba109b</application>
+        <file_path/>
+        <instance_id>744261af931caad0401cddd548373cdc</instance_id>
+        <instance_name>dev305586</instance_name>
+        <name>sc_cat_item_catalog_c6eccf2c93286610b67e796efaba1079</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="WishItem = Test record producer">0f0ccbe893286610b67e796efaba1035</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>fred.luddy</sys_created_by><sys_created_on>2025-03-24 21:33:35</sys_created_on><sys_id>c6eccf2c93286610b67e796efaba1079</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.WishItem = Test record producer</sys_name><sys_package display_value="Wish List" source="x_971439_wish_list">43e187a793182210b67e796efaba109b</sys_package><sys_policy/><sys_scope display_value="Wish List">43e187a793182210b67e796efaba109b</sys_scope><sys_update_name>sc_cat_item_catalog_c6eccf2c93286610b67e796efaba1079</sys_update_name><sys_updated_by>fred.luddy</sys_updated_by><sys_updated_on>2025-03-24 21:33:35</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-2009792395</payload_hash>
+        <record_name>Service Catalog.WishItem = Test record producer</record_name>
+        <reverted_from/>
+        <source>a57bc3a093286610b67e796efaba10d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2025-03-24 21:33:35</sys_created_on>
+        <sys_id>c2eccf2c93286610b67e796efaba107d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195ca13470c0000001</sys_recorded_at>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2025-03-24 21:33:35</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>06eccf2cf4286610676f85e90a19e27c</update_guid>
+        <update_guid_history>06eccf2cf4286610676f85e90a19e27c:-2009792395</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.WishItem = Test record producer">fafc436c93286610b67e796efaba105d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2025-03-24 21:33:55</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0064764916d04b17861463e0f2f6f801</sys_id>
+        <sys_metadata>c6eccf2c93286610b67e796efaba1079</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.WishItem = Test record producer</sys_name>
+        <sys_package display_value="Wish List" source="x_971439_wish_list">43e187a793182210b67e796efaba109b</sys_package>
+        <sys_parent display_value="Wish Item Test record producer">0f0ccbe893286610b67e796efaba1035</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">43e187a793182210b67e796efaba109b</sys_scope>
+        <sys_scope_delete display_value="">2fb6bf6c1a5845b082e6bc01a4329084</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_c6eccf2c93286610b67e796efaba1079</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_c6eccf2c93286610b67e796efaba1079">c2eccf2c93286610b67e796efaba107d</sys_update_version>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2025-03-24 21:33:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
